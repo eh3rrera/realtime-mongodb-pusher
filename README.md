@@ -23,6 +23,9 @@ Follow the tutorial here (to be published).
 
 ## Built With
 
+* [MongoDB](https://www.mongodb.com/) - NoSQL database
+* [Node.js](https://nodejs.org/en/) - A JavaScript runtime 
+* [React](https://reactjs.org/) - A JavaScript library for building webapps
 * [Pusher](https://pusher.com/) - APIs to enable devs building realtime features
 
 ## Acknowledgments
